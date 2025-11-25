@@ -192,6 +192,10 @@ p{
     gap: 20px;
     font-size: 20px;
 }
+
+
+
+
 .recomment_1 h6{
     color: #2A2B40;
     font-weight: lighter;
@@ -199,16 +203,14 @@ p{
 .recomment_1{
     padding: 15px;
     border: gray solid 0.5px;
-    
     border-radius: 20px;
-    
-
 }
 .recomment_1 img{
     width: 300px;
     height: 150px;
     border-radius: 10px;
 }
+
 
 .recomment_2{
     padding: 15px;
