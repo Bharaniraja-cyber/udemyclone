@@ -366,12 +366,12 @@ p{
 
 @media  screen and (max-width:1200px) {
     .ad_sec,.ad_img{
-        width: 40%;
+        width: 550px;
         h1{
             font-size: 18px;
         }
         p{
-        font-size: 15px;
+        font-size: 16px;
 
         }
     }
@@ -400,18 +400,15 @@ p{
         display: none;
     }
     .sale_imageoff{
-        height: 150px;
-        p,h2{
-            font-size: 16px;
-
+        height: 130px;
+        p{
+            display: none;
         }
     }
     .sale-image img{
-        height: 230px;
+        height: 240px;
     }
-    .container{
-        gap: 20px;
-    }
+   
     #p_logo{
         display: none;
     }
@@ -428,6 +425,11 @@ p{
     }
     #dis{
         display: none;
+    }
+    .recomment_2{
+        margin-right: 0%;
+        margin-left: 0%;
+        gap: 10px;
     }
     
 
